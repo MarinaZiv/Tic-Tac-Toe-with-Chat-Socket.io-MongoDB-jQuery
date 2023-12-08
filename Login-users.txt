@@ -1,15 +1,5 @@
 
 name
-"name"
-email
-"name@name.com"
-password
-098
-
-
-
-
-name
 "gamer"
 email
 "gamer@gamer.com"
@@ -20,9 +10,19 @@ password
 
 
 name
-"marina"
+"gamer2"
 email
-"marina@marina.com"
+"gamer2@gamer2.com"
+password
+098
+
+
+
+
+name
+"gamer3"
+email
+"gamer3@gamer3.com"
 password
 098
 
